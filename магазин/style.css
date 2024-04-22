@@ -1,0 +1,255 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+     
+    background: url(./Frame_272__1_.webp);
+    }
+
+
+header {
+    background-color: #f4eded;
+    color: #090808;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.meni {
+    
+    margin-top: 20px;
+    color: #37444a;
+    
+}
+.menu_text a{
+    color: #22262a;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+.meni{
+    display: flex;
+    gap: 25%;
+    margin-right: 45%;
+}
+
+.meni a{
+    color: #090808;
+}
+
+.h1 h1{
+    color: rgb(44, 43, 43);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-right: 100px;
+}
+.con h2{
+    
+    font-size:75px;
+margin-top:5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #37444a;
+    margin-left: 12%;
+}
+.con h1{
+    
+    font-size:75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #37444a;
+    margin-left: 45%;
+    
+}
+.con h3{
+    
+    font-size:70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #37444a;
+    margin-left: 55%;
+}
+.bad img{
+    width:250px ;
+    height:250px ;
+    margin-left: 300px;
+    padding-top: 5%;
+}
+
+.product {
+    float: left;
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-left: 12%;
+}
+.asd img{
+    width: 200px;
+ 
+ }
+ .asd h2{
+     color: rgb(80, 107, 107);
+ }
+ .asd p{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 15px;
+ }
+ .asd a{
+    color: #37444a;
+    text-decoration: none;
+ }
+ 
+.bb button{
+    padding-top: 100%;
+    margin-right: 70%;
+    width: 50px;
+    height: 25px;
+}
+.nn button {
+    margin-top: 90%;
+    width: 50px;
+    height: 20px;
+    border-radius: 35%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    
+    
+}
+.nn a{
+    color: #090808;
+    text-decoration: none;
+}
+.wer h1 {
+    margin-top: 10%;
+    
+}
+
+.footer{
+    display: flex;
+    padding-left: 10%;
+    padding-top: 10%;
+    background-color: #f4eded;;
+}
+
+.fot h1{
+    color: #22262A;
+
+    font-family: 'Poppins', sans-serif;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.fot h2{
+    color: #22262A;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top:30px ;
+}
+.fot h4 {
+    color: #22262A;
+    font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 25px;
+
+}
+.fot h5{
+    color: #22262A;
+    font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 25px;
+cursor: pointer;
+}
+.fot h6{
+    color: #22262A;
+    font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 25px;
+cursor: pointer;
+}
+
+.fot1{
+    margin-left: 10%;
+}
+.fot1 p{
+    color: #22262A;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 39px;
+
+}
+
+.fot1 button {
+    width: 400px;
+height: 30px;
+flex-shrink: 0;
+border-radius: 2px;
+box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.07);
+margin-top: 23px;
+margin-left: 40px;
+cursor: pointer;
+
+}
+.fot1 button p{
+    color: #22262A;
+    margin-right: 20;
+    font-family:  'Poppins', sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+.fot1 p{
+    
+    color: #121010;
+    
+}
+
+.fo h2{
+    color: #22262A;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: 69px;
+}
+
+
+
+
+.fo2{
+    display: flex;
+    
+}
+.fo{
+    margin-left: 50px;
+}
+ 
